@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Build output
+dist
+build
+
+# Dependency directories
+node_modules
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache and local files
+.cache/
+.local/
+yarn-error.log
